@@ -1,0 +1,25 @@
+S1 $ a aA b bB 
+B c cS 
+A a aA aS 
+S a aA b bB 
+
+
+5
+13
+S A a
+S B b
+S D0 a
+S D0 b
+A A a
+A D0 a
+A S a
+B D0 c
+B S c
+S1 A a
+S1 B b
+S1 D0 a
+S1 D0 b
+
+S1
+2
+D0 S1 
